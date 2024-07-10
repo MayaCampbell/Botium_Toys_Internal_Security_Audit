@@ -101,7 +101,7 @@ management
 | Credit Card information is stored, accepted, processed, and transmitted internally, in a secure environment | Preventative; keeping sensitive information safe and accessible to authorized staff | X | High |
 | Implement data encryption procedures to better secure credit card transaction touchpoints and data | Preventative; encryption ensures sensitive information is converted into secure format that can only be read by authorized parties | X | High |
 | Adopt secure password management policies | Preventative; prevent security incidents by ensuring that passwords are strong, regulary updated | X | High |
-| E.U customers' data is kept private/secured | Preventative; focuses on implementing practices and controls to prevent unauthorized access and ensure the privacy and security of E.U customer data | High |
+| E.U customers' data is kept private/secured | Preventative; focuses on implementing practices and controls to prevent unauthorized access and ensure the privacy and security of E.U customer data | X | High |
 | There is a plan in place to notifiy E.U customer within 72 hours if their data is compromised/there is a breach | Preventative; **are already in place** | NA | NA |
 | Ensure data is properly classifies and inventoried | Preventative; helps to identify the sensitive and value of data, enabling appropriate security controls to be applied and ensuring data is handled accordingly | X | High |
 | Enforce privacy policies, procedures, and processes to properly document and maintain data | Preventative; **already in place** | NA | NA |
